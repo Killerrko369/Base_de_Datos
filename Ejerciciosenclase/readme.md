@@ -12,3 +12,6 @@ Se agregaron los datos a la tabla libros (sale ERROR en como ingresar los años)
 
 https://www.db-fiddle.com/f/qqvaxEh5UC9CnwTdYCwAeP/3
 
+Se agregaron los datos de las tablas personas, prestamo, volumenes(ERROR corregido)
+
+https://www.db-fiddle.com/f/qqvaxEh5UC9CnwTdYCwAeP/4
