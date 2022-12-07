@@ -15,3 +15,7 @@ https://www.db-fiddle.com/f/qqvaxEh5UC9CnwTdYCwAeP/3
 Se agregaron los datos de las tablas personas, prestamo, volumenes(ERROR corregido)
 
 https://www.db-fiddle.com/f/qqvaxEh5UC9CnwTdYCwAeP/4
+
+Se agregaron los datos de la tabla intermedia auto_lib y se agregaron comandos para consulta en Query SQL
+
+https://www.db-fiddle.com/f/qqvaxEh5UC9CnwTdYCwAeP/5
