@@ -23,3 +23,7 @@ https://www.db-fiddle.com/f/qqvaxEh5UC9CnwTdYCwAeP/5
 Se agregaron comandos para Query SQL (INNER JOIN, LEFT JOIN, UPDATE)
 
 https://www.db-fiddle.com/f/qqvaxEh5UC9CnwTdYCwAeP/6
+
+Se agregaron comandos para Query SQL (DELETE, TRUNCATE y DROP)
+
+https://www.db-fiddle.com/f/qqvaxEh5UC9CnwTdYCwAeP/7
